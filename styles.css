@@ -4,13 +4,13 @@ body{
 }
 
 header{ 
-    border-bottom: solid 2px rgb(200, 162, 200);
+    border-bottom: solid 2px rgb(17, 173, 51);
     padding-bottom: 20px;
     font-size: 32px;
       color:black
 }
 section{
-    background:green 
+    background:rgb(24, 100, 34) 
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
